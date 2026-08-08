@@ -58,25 +58,6 @@ CSE (AI-ML) Student | AI & Full-Stack Developer | GenAI | DSA
 
 ---
 
-## 🌟 Featured Projects
-
-### 🚀 LaunchPad
-AI-powered startup planning platform for idea validation, market analysis, MVP generation and execution planning.
-
-**React • Tailwind CSS • Node.js • OpenRouter API**
-
-### 📄 Smart Resume Analysis System
-Domain-based resume analysis system built around structured resume data and normalized database design.
-
-**Python • MySQL • SQL • 3NF**
-
-### 🌐 Social Media App
-Full-stack social media platform with user authentication, posts, likes and comments.
-
-**React • Node.js • Express • MongoDB • JWT**
-
----
-
 ## 🏆 Achievements
 
 - 🥇 Finalist in **Coding Contest Convergence at VNRVJIET 2025**
@@ -95,7 +76,7 @@ Full-stack social media platform with user authentication, posts, likes and comm
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/varun-nandan-thota-5a421332b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -103,12 +84,20 @@ Full-stack social media platform with user authentication, posts, likes and comm
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/T_Varun_Nandan/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="YOUR_CODECHEF_URL">
+<a href="https://www.codechef.com/users/varun_code_8">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
+<a href="https://codeforces.com/profile/Code_gem_7">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
 </p>
+
+---
+
+<h3 align="center">💡 Always Learning • Always Building • Always Improving</h3>

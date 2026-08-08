@@ -4,12 +4,6 @@
 CSE (AI-ML) Student | AI & Full-Stack Developer | GenAI | DSA
 </h3>
 
-<p align="center">
-  <a href="https://github.com/varunnandanthota-08">
-    <img src="https://komarev.com/ghpvc/?username=varunnandanthota-08&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -20,25 +14,11 @@ CSE (AI-ML) Student | AI & Full-Stack Developer | GenAI | DSA
 
 🤖 Interested in **Artificial Intelligence, Generative AI and Machine Learning**
 
-🌐 Building **full-stack applications** using the MERN stack
+🌐 Building **full-stack applications** using modern web technologies
 
 🗄️ Interested in **SQL, databases and data-driven systems**
 
-🧠 Solved **500+ DSA problems** across coding platforms
-
-🚀 I enjoy transforming real-world problems into practical software solutions.
-
----
-
-## 🚀 What I'm Currently Exploring
-
-- 🤖 Generative AI & LLM Applications
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🗃️ Vector Databases
-- 🌐 MERN Stack Development
-- 🧠 Data Structures & Algorithms
-- 🗄️ SQL & Database Systems
-- 🚀 AI-powered real-world applications
+🚀 Passionate about turning real-world problems into practical software solutions
 
 ---
 
@@ -47,7 +27,7 @@ CSE (AI-ML) Student | AI & Full-Stack Developer | GenAI | DSA
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
 </p>
 
 ### 🌐 Web Development
@@ -80,75 +60,34 @@ CSE (AI-ML) Student | AI & Full-Stack Developer | GenAI | DSA
 
 ## 🌟 Featured Projects
 
-### 🚀 LaunchPad — AI-Powered Startup Planning Platform
+### 🚀 LaunchPad
+AI-powered startup planning platform for idea validation, market analysis, MVP generation and execution planning.
 
-An AI-driven platform designed to transform raw startup ideas into
-structured business plans through idea clarification, market analysis,
-MVP generation and roadmap planning.
-
-**Tech Stack:** React • Tailwind CSS • Node.js • OpenRouter API • REST APIs
-
----
+**React • Tailwind CSS • Node.js • OpenRouter API**
 
 ### 📄 Smart Resume Analysis System
+Domain-based resume analysis system built around structured resume data and normalized database design.
 
-A domain-based resume analysis system designed using a normalized
-relational database architecture for structured candidate analysis
-and efficient data retrieval.
-
-**Tech Stack:** Python • MySQL • SQL • ER Modeling • 3NF
-
----
+**Python • MySQL • SQL • 3NF**
 
 ### 🌐 Social Media App
+Full-stack social media platform with user authentication, posts, likes and comments.
 
-A full-stack social media platform supporting user profiles, posts,
-likes and comments with authentication and RESTful APIs.
-
-**Tech Stack:** React • Node.js • Express • MongoDB • JWT
-
----
-
-## 🧠 Problem Solving
-
-<p align="center">
-
-🏆 <b>500+ DSA Problems Solved</b>
-
-</p>
-
-I regularly practice:
-
-`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues`
-• `Trees` • `Graphs` • `Dynamic Programming`
-• `Binary Search` • `Greedy` • `Recursion`
+**React • Node.js • Express • MongoDB • JWT**
 
 ---
 
 ## 🏆 Achievements
 
 - 🥇 Finalist in **Coding Contest Convergence at VNRVJIET 2025**
-- 🧩 Competed against **250+ teams**
-- 🚀 Participated in multiple hackathons and codathons
-- 🧠 Solved **500+ DSA challenges**
-- ⚡ Focused on writing optimized and efficient solutions
+- 🏆 Competed against **250+ teams**
+- 🧠 Solved **500+ DSA challenges** across coding platforms
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Career Interests
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunnandanthota-08&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunnandanthota-08&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=varunnandanthota-08&theme=tokyonight&hide_border=true" />
-</p>
+**AI Engineering • Generative AI • Machine Learning • Data Engineering • Full-Stack Development**
 
 ---
 
@@ -156,7 +95,7 @@ I regularly practice:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/varun-nandan-thota/">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -173,15 +112,3 @@ I regularly practice:
 </a>
 
 </p>
-
----
-
-## 🎯 Career Interests
-
-**AI Engineering • Generative AI • Machine Learning • Data Engineering • Full-Stack Development**
-
----
-
-<h3 align="center">
-💡 Always Learning • Always Building • Always Improving
-</h3>

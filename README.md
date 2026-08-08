@@ -23,13 +23,15 @@ Full-Stack Developer | CSE (AI-ML) Student | AI & GenAI | DSA
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,react,nodejs,express,mysql,mongodb,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,react,nodejs,express" />
 </p>
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman" />
+</p>
 
+<p align="center">
 <b>AI / GenAI:</b> LLMs • RAG • Vector Databases • Generative AI
-
 </p>
 
 ---

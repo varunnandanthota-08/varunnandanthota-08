@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun Nandan</h1>
 
 <h3 align="center">
-CSE (AI-ML) Student | AI & Full-Stack Developer | GenAI | DSA
+Full-Stack Developer | CSE (AI-ML) Student | AI & GenAI | DSA
 </h3>
 
 ---
@@ -10,50 +10,26 @@ CSE (AI-ML) Student | AI & Full-Stack Developer | GenAI | DSA
 
 🎓 CSE (AI-ML) student at **VNR Vignana Jyothi Institute of Engineering and Technology**
 
-📊 Maintaining a **9.45 CGPA**
+🌐 Passionate about building **full-stack applications** and solving real-world problems
 
 🤖 Interested in **Artificial Intelligence, Generative AI and Machine Learning**
 
-🌐 Building **full-stack applications** using modern web technologies
-
 🗄️ Interested in **SQL, databases and data-driven systems**
 
-🚀 Passionate about turning real-world problems into practical software solutions
+🚀 Enjoy turning ideas into **practical and scalable software solutions**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,react,nodejs,express,mysql,mongodb,git,github,vscode,postman" />
 </p>
 
-### 🌐 Web Development
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
-</p>
+<b>AI / GenAI:</b> LLMs • RAG • Vector Databases • Generative AI
 
-### 🤖 AI / GenAI
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-`LLMs` • `RAG` • `Vector Databases` • `Generative AI`
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -66,9 +42,11 @@ CSE (AI-ML) Student | AI & Full-Stack Developer | GenAI | DSA
 
 ---
 
-## 🎯 Career Interests
+<h3 align="center">🎯 Career Interests</h3>
 
-**AI Engineering • Generative AI • Machine Learning • Data Engineering • Full-Stack Development**
+<p align="center">
+<b>Full-Stack Development • AI Engineering • Generative AI • Machine Learning • Data Engineering</b>
+</p>
 
 ---
 

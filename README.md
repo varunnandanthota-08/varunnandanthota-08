@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Varun Nandan 👋
 
-<!--
-**varunnandanthota-08/varunnandanthota-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML & Full-Stack Developer | CSE-AIML
 
-Here are some ideas to get you started:
+I'm a Computer Science student specializing in Artificial Intelligence and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical applications that combine software development, data, and AI.
+
+### 🚀 Currently Working On
+
+- 🤖 Machine Learning & AI
+- 🌐 MERN Stack Development
+- 📊 Data Engineering & SQL
+- 🧩 Data Structures & Algorithms
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+Python • C++ • JavaScript • SQL
+
+**AI / ML**
+
+NumPy • Pandas • Scikit-learn • Matplotlib
+
+**Web Development**
+
+HTML • CSS • JavaScript • React • Node.js • Express • MongoDB
+
+**Tools**
+
+Git • GitHub • VS Code • Postman
+
+### 📌 Featured Work
+
+- 🤖 Machine Learning Projects
+- 🌐 Full-Stack Web Applications
+- 📊 Data Engineering Projects
+- 🧩 DSA & Algorithm Practice
+
+### 🎯 Career Interests
+
+AI Engineering • Machine Learning • Data Engineering • Full-Stack Development
+
+### 📫 Connect
+
+[LinkedIn](YOUR_LINKEDIN_LINK) • [GitHub](https://github.com/varunnandanthota-08)
+
+---
+
+⭐ Always learning. Always building.

@@ -41,6 +41,7 @@ Full-Stack Developer | CSE (AI-ML) Student | AI & GenAI | DSA
 - 🥇 Finalist in **Coding Contest Convergence at VNRVJIET 2025**
 - 🏆 Competed against **250+ teams**
 - 🧠 Solved **500+ DSA challenges** across coding platforms
+- 🎓 Earned the **Gen AI Professional – Oracle Cloud Infrastructure** certification, strengthening my knowledge of Generative AI and cloud-based AI technologies.
 
 ---
 
